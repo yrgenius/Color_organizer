@@ -1,0 +1,17 @@
+.color-form {
+    margin: 0 auto;
+    margin: 30px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.color-form input {
+    min-height: 21px;
+}
+
+.color-form button {
+    cursor: pointer;
+}
